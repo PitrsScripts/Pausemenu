@@ -12,3 +12,7 @@ version '1.0.0'
 client_scripts {
     'pausemenu.lua',
 }
+
+dependencies {
+    'es_extended',
+}
